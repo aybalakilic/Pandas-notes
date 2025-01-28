@@ -1,8 +1,10 @@
 # Veri Analizi - Pandas
 
+
 Bu repository, Python'da veri analizi yapmak için kullanılan **Pandas** kütüphanesine yönelik ders notları ve uygulamaları içermektedir. Aşağıda, her bir konu başlığı ve içeriği detaylı bir şekilde açıklanmıştır.
 
-( English description below🌐 )
+##  English description below 👇🏻🌐
+![Alt metin](pandas.jpg)
 ---
 
 ## 1 Pythonda Pandas Kütüphanesi Nedir?
